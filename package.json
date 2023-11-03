@@ -1,0 +1,47 @@
+{
+  "name": "node-studies",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/bcryptjs": "^2.4.4",
+    "@types/cors": "^2.8.14",
+    "@types/date-fns": "^2.6.0",
+    "@types/express": "^4.17.18",
+    "@types/express-handlebars": "^6.0.0",
+    "@types/joi": "^17.2.3",
+    "@types/jsonwebtoken": "^9.0.3",
+    "@types/multer": "^1.4.8",
+    "@types/mustache": "^4.2.3",
+    "@types/node": "^20.8.3",
+    "@types/nodemailer": "^6.4.11",
+    "@types/sequelize": "^4.28.16",
+    "@types/uuid": "^9.0.5",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "dev": "npx ts-node-dev ./src/server.ts"
+  },
+  "dependencies": {
+    "@types/ioredis": "^5.0.0",
+    "@types/mustache-express": "^1.2.3",
+    "bcryptjs": "^2.4.3",
+    "celebrate": "^15.0.1",
+    "cors": "^2.8.5",
+    "date-fns": "^2.30.0",
+    "express": "^4.18.2",
+    "express-async-errors": "^3.1.1",
+    "express-handlebars": "^7.1.2",
+    "ioredis": "^5.3.2",
+    "jsonwebtoken": "^9.0.2",
+    "multer": "^1.4.5-lts.1",
+    "mustache": "^4.2.0",
+    "nodemailer": "^6.9.6",
+    "pg": "^8.11.3",
+    "pg-hstore": "^2.3.4",
+    "reflect-metadata": "^0.1.13",
+    "sequelize": "^6.33.0",
+    "uuid": "^9.0.1"
+  }
+}
