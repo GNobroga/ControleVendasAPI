@@ -16,6 +16,4 @@ Criação de uma API para extender o conhecimento em Node e Typescript.
 
 - Express 
 
-- Redis 
-
 - Postgres 
