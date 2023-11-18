@@ -1,6 +1,6 @@
-# Controle API
+# Controle de Vendas API
 
-Criação de uma API para extender o conhecimento em Node e Typescript. 
+É uma API para controlar de vendas, nela foi aplicado autenticação com JWT, utilização de Sequelize ORM e Express para fazer o mapeamento do endpoints.
 
 # Tecnologias
 
